@@ -54,6 +54,8 @@ npm run start:dev
 ## Endpoints
 
 - `POST /image/save`: Realiza o upload de uma imagem a partir de uma URL pública. A imagem é salva no sistema de arquivos, uma versão reduzida é gerada e os metadados do EXIF são armazenados no MongoDB.
+
+- `localhost:${PORT}/api-docs`: Swagger com endpoint funcional.
 ## Estrutura de Pastas
 
 A estrutura de pastas do projeto é organizada da seguinte maneira:
