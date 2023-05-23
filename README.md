@@ -74,6 +74,7 @@ A estrutura de pastas do projeto é organizada da seguinte maneira:
 ┗ 📜 main.ts
 📂 test
 ┣ 📜 image.controller.spec.ts
+📂 uploads
 📜 .env.example
 ```
 ## Exemplo de payload:
