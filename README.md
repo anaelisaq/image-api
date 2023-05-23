@@ -23,7 +23,7 @@ Execute os seguintes comandos a partir da pasta raiz do projeto:
 ### Clone este repositório
 
 ```bash
-git clone <link-do-repositorio>
+git clone git@github.com:anaelisaq/image-api.git
 ```
 
 ### Acesse o diretório do projeto:
